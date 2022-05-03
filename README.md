@@ -137,7 +137,7 @@ heroku apps:rename natours-users
 * [ParcelJS](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
 * [Stripe](https://stripe.com/) - Online payment API
 * [Postman](https://www.getpostman.com/) - API testing
-* [Mailtrap](https://mailtrap.io/) & [Sendgrid](https://sendgrid.com/) - Email delivery platform
+* [Mailtrap](https://mailtrap.io/) & [SendinBlue](https://www.sendinblue.com/) - Email delivery platform
 * [Heroku](https://www.heroku.com/) - Cloud platform
 
 
