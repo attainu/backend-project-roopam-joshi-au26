@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <a href="https://lakshman-natours.herokuapp.com/"><img src="https://github.com/lgope/Natours/blob/master/public/img/logo-green-round.png" alt="Natours" width="200"></a>
+  <a href=""><img src="https://github.com/lgope/Natours/blob/master/public/img/logo-green-round.png" alt="Tours" width="200"></a>
   <br>
-  Natours
+  Tours-App
   <br>
 </h1>
 
@@ -24,7 +24,7 @@
 </p>
 
 ## Deployed Version
-Live demo (Feel free to visit) 👉 : https://lakshman-natours.herokuapp.com/
+Live demo (Feel free to visit) 👉 : 
 
 
 ## Key Features
@@ -97,13 +97,13 @@ Check [Natours API Documentation](https://documenter.getpostman.com/view/8689170
 
 <b> API Features: </b>
 
-Tours List 👉 https://lakshman-natours.herokuapp.com/api/v1/tours
+Tours List 👉 
 
-Tours State 👉 https://lakshman-natours.herokuapp.com/api/v1/tours/tour-stats
+Tours State 👉 
 
-Get Top 5 Cheap Tours 👉 https://lakshman-natours.herokuapp.com/api/v1/tours/top-5-cheap
+Get Top 5 Cheap Tours 👉 
 
-Get Tours Within Radius 👉 https://lakshman-natours.herokuapp.com/api/v1/tours/tours-within/200/center/34.098453,-118.096327/unit/mi
+Get Tours Within Radius 👉 
 
 
 
@@ -172,7 +172,7 @@ eslint-plugin-import eslint-plugin-jsx-a11y  eslint-plugin-react --save-dev
 
 
 ## Known Bugs
-Feel free to email me at lakshman.gope2@gmail.com if you run into any issues or have questions, ideas or concerns.
+Feel free to email me at roopamjoshi63@gmail.com if you run into any issues or have questions, ideas or concerns.
 Please enjoy and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
 
 ## Future Updates
