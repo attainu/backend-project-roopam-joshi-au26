@@ -90,8 +90,7 @@ Live demo (Feel free to visit) 👉 : https://lakshman-natours.herokuapp.com/
 ## API Usage
 Before using the API, you need to set the variables in Postman depending on your environment (development or production). Simply add: 
   ```
-  - {{URL}} with your hostname as value (Eg. http://127.0.0.1:3000 or http://www.example.com)
-  - {{password}} with your user password as value.
+  - {{URL}} with your hostname as value (Eg. http://hostname:3000 or http://www.example.com)
   ```
 
 Check [Natours API Documentation](https://documenter.getpostman.com/view/8689170/SVmzvwpY?version=latest) for more info.
@@ -112,7 +111,7 @@ Get Tours Within Radius 👉 https://lakshman-natours.herokuapp.com/api/v1/tours
 The website is deployed with git into heroku. Below are the steps taken:
 ```
 git init
-git add -A
+git add .
 git commit -m "Commit message"
 heroku login
 heroku create
@@ -183,7 +182,3 @@ Please enjoy and feel free to share your opinion, constructive criticism, or com
 * Featured Tours
 * Recently Viewed Tours
 * And More ! There's always room for improvement!
-
-## Acknowledgement
-
-* This project is part of the online course I've taken at Udemy. Thanks to Jonas Schmedtmann for creating this awesome course! Link to the course: [Node.js, Express, MongoDB & More: The Complete Bootcamp 2019](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
